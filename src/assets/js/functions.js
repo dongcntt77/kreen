@@ -666,7 +666,7 @@
     }
 
     // Window load
-    $(window).on("load", function () {
+  //  $(window).on("load", function () {
         kreen_video();
         kreen_google_maps();
         if ($('.kreen-threed-view').length > 0) {
@@ -717,7 +717,7 @@
         kreen_popover_button();
         kreen_magnific_popup();
 
-    });
+   // });
     // Window resize
     $(window).on("resize", function () {
         if ($('.vertical-menu').length > 0) {

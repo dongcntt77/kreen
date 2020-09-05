@@ -9,7 +9,7 @@ import { FooterComponent } from './footer/footer.component';
 import { Routes, RouterModule } from '@angular/router';
 const routes: Routes = [
   {
-    path: 'chitiet',
+    path: 'chitiet/:id',
     component: ChitietComponent,
   },
   {
