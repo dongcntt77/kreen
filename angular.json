@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kreen"
+    }
+  },
+  "defaultProject": "kreen",
+  "cli": {
+    "analytics": "0e5241f0-5bca-4d59-b054-db3223c71153"
+  }
 }
